@@ -6,7 +6,7 @@ C = A+B;
 %% Moltiplicazione di due numeri (Nadia)
 % D = 
 %% Divisione di due numeri (Anna)
-% E =
+ E =A/B
 %% Sottrazione di due numeri (Mariella)
 F=A-B
 %%
